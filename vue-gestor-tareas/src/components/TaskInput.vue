@@ -1,4 +1,3 @@
-<!-- filepath: c:\Universidad\Tarea DW\vue-gestor-tareas\src\components\TaskInput.vue -->
 <template>
   <div class="task-input">
     <input
