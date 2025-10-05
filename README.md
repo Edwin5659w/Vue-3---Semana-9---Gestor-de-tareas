@@ -1,1 +1,4 @@
-# Vue-3---Semana-9---Gestor-de-tareas
+- # Edwin Yair Molina Cerón
+- # 408873
+- # edwin.molina01@unicatolica.edu.co
+- # https://youtu.be/_ie4iHQ7fy8?si=XPWbqgmwySCYl_7z
